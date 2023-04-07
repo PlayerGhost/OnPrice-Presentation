@@ -10,7 +10,7 @@ Acesse o primeiro comparador de preços focado 100% em hardware do Brasil.
 
 ## O que é o OnPrice?
 
-O OnPrice é um comparador de preços de hardware focado 100% em hardware do Brasil. Ele foi desenvolvido para ajudar os usuários a encontrar os melhores preços de produtos de hardware, como placas de vídeo, processadores, placas-mãe, memórias, fontes, gabinetes, coolers, etc. Além disso, mesmo conta com uma área de escolha peças compativeis.
+O OnPrice é o primeiro comparador de preços de hardware focado 100% em hardware do Brasil. Ele foi desenvolvido para ajudar os usuários a encontrar os melhores preços de produtos de hardware, como placas de vídeo, processadores, placas-mãe, memórias, fontes, gabinetes, coolers, etc. Além disso, mesmo conta com uma área de escolha peças compativeis.
 
 ## Como funciona?
 
